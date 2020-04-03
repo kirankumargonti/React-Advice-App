@@ -2,7 +2,6 @@
   "name": "react-advicer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kirankumargonti.github.io/React-Advice-App/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -13,6 +12,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
+  "homepage": "https://kirankumargonti.github.io/React-Advice-App/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
